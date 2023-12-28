@@ -12,6 +12,5 @@ public class AcercaDeNosotrosPage {
     public static final Target TXT_TITULO_DOCUMENTO = Target.the("Titulo Aviso de Convocatoria").located(By.xpath("//h4[contains(.,'Aviso de Convocatoria')]"));
 
     private AcercaDeNosotrosPage() {
-        throw new IllegalStateException("coaching interface class");
     }
 }
