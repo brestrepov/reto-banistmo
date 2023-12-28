@@ -1,9 +1,9 @@
 ## Reto técnico de Automatización Banistmo
 Prueba realizada sobre la pagina: https://www.banistmo.com/wps/portal/banistmo/personas <br>
 
-## Requisitos
+### Proyecto trabajado con
 - java 11
-- gradle <br>
+- gradle 6.5 <br>
 
 #### Nota:
  - En caso de quere ejecutar el escenario de prueba es necesario descargar el chrome driver correspondiente a la version que se tenga instalada 
